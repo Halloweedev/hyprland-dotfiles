@@ -1,6 +1,6 @@
 return {
     "feline-nvim/feline.nvim",
-    dependencies = { "nvim-tree/nvim-web-devicons" },
+    dependencies = {},
     opts = function()
         local colors = {
             bg = "#FBF9F6",
