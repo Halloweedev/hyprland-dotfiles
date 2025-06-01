@@ -1,0 +1,23 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Zen-MYEJ72.desktop
+x-scheme-handler/https=userapp-Zen-MYEJ72.desktop
+x-scheme-handler/chrome=userapp-Zen-MYEJ72.desktop
+text/html=userapp-Zen-MYEJ72.desktop
+application/x-extension-htm=userapp-Zen-MYEJ72.desktop
+application/x-extension-html=userapp-Zen-MYEJ72.desktop
+application/x-extension-shtml=userapp-Zen-MYEJ72.desktop
+application/xhtml+xml=userapp-Zen-MYEJ72.desktop
+application/x-extension-xhtml=userapp-Zen-MYEJ72.desktop
+application/x-extension-xht=userapp-Zen-MYEJ72.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Zen-MYEJ72.desktop;zen.desktop;
+x-scheme-handler/https=userapp-Zen-MYEJ72.desktop;zen.desktop;
+x-scheme-handler/chrome=userapp-Zen-MYEJ72.desktop;zen.desktop;
+text/html=zen.desktop;userapp-Zen-MYEJ72.desktop;
+application/x-extension-htm=zen.desktop;userapp-Zen-MYEJ72.desktop;
+application/x-extension-html=zen.desktop;userapp-Zen-MYEJ72.desktop;
+application/x-extension-shtml=zen.desktop;userapp-Zen-MYEJ72.desktop;
+application/xhtml+xml=zen.desktop;userapp-Zen-MYEJ72.desktop;
+application/x-extension-xhtml=zen.desktop;userapp-Zen-MYEJ72.desktop;
+application/x-extension-xht=zen.desktop;userapp-Zen-MYEJ72.desktop;
